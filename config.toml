@@ -2,3 +2,6 @@ baseURL = "http://shinn.cloud/"
 languageCode = "en-us"
 title = "ShinnCloud"
 theme = "ananke"
+
+[params]
+  featured_image = "/images/hero-sunset-plane-comp.jpg"
