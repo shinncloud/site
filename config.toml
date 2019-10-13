@@ -5,3 +5,26 @@ theme = "ananke"
 
 [params]
   featured_image = "/images/hero-sunset-plane-comp.jpg"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog Posts"
+    title = "Blog Posts"
+    url = "/posts/"
+    weight = -10
+
+  [[menu.main]]
+    identifier = "netlify"
+    name = "Netlify Admin"
+    title = "Netlify Admin"
+    url = "https://app.netlify.com/sites/pedantic-mcclintock-951a77/overview"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    title = "GitHub"
+    url = "https://github.com/shinncloud"
+    weight = 10
