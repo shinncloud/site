@@ -11,3 +11,4 @@ ShinnCloud is an open learning organization. It is a demonstration use of build 
 * Terraform
 * Packer
 * GitHub
+* Netlify
